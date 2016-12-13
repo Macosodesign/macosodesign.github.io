@@ -6,7 +6,7 @@
 	box-sizing: border-box;
 }
 
-body {
+ body {
 	background: url('../img/imgf.jpg');
 	background-size: cover;
 	background-attachment: fixed;
@@ -51,7 +51,6 @@ a {	text-decoration: none; }
 	vertical-align: top;
 	width: 100%;
 	position: absolute;
-	top: 0;
 	left: 100%;
 }
 
